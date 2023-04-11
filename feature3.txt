@@ -1,1 +1,1 @@
-This is the file to test in github
+This is the file to test the conflict in github

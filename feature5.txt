@@ -1,1 +1,2 @@
-This is the file for develop branch
+
+This is file from testforconflict branch
